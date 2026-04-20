@@ -1,0 +1,95 @@
+# =============================================================
+# uBlacklist Ruleset — Reach plc / Trinity Mirror
+# All known Reach plc web domains
+# https://github.com/YOURUSERNAME/ublacklist-reach-plc
+# Last updated: 2025
+# =============================================================
+
+# --- NATIONAL / TABLOID ---
+*://*.mirror.co.uk/*
+*://*.mirror.ie/*
+*://*.themirror.com/*
+*://*.sunday-mirror.co.uk/*
+*://*.irishmirror.ie/*
+*://*.dailyrecord.co.uk/*
+*://*.sundaymail.co.uk/*
+*://*.dailyexpress.co.uk/*
+*://*.express.co.uk/*
+*://*.dailystar.co.uk/*
+*://*.star.co.uk/*
+*://*.ok.co.uk/*
+*://*.new-magazine.co.uk/*
+*://*.sundaypeople.co.uk/*
+*://*.people.co.uk/*
+
+# --- CORE NETWORK / PLATFORM SITES ---
+*://*.reachplc.com/*
+*://*.inyourarea.co.uk/*
+*://*.football.london/*
+
+# --- "LIVE" NETWORK ---
+*://*.mylondon.news/*
+*://*.aberdeenlive.co.uk/*
+*://*.belfastlive.co.uk/*
+*://*.birminghammail.co.uk/*
+*://*.birminghamlive.co.uk/*
+*://*.bristollive.co.uk/*
+*://*.cheshire-live.co.uk/*
+*://*.chroniclelive.co.uk/*
+*://*.cornwalllive.com/*
+*://*.coventrytelegraph.net/*
+*://*.coventrylive.co.uk/*
+*://*.derbyshirelive.co.uk/*
+*://*.devonlive.com/*
+*://*.edinburghlive.co.uk/*
+*://*.essexlive.news/*
+*://*.exeterlive.co.uk/*
+*://*.gazettelive.co.uk/*
+*://*.glasgowlive.co.uk/*
+*://*.gloucestershirelive.co.uk/*
+*://*.grimsbytelegraph.co.uk/*
+*://*.hampshirelive.news/*
+*://*.hulldailymail.co.uk/*
+*://*.kentlive.news/*
+*://*.lancs.live/*
+*://*.leedslive.co.uk/*
+*://*.leicestermercury.co.uk/*
+*://*.leicestershirelive.co.uk/*
+*://*.lincolnshirelive.co.uk/*
+*://*.liverpoolecho.co.uk/*
+*://*.manchestereveningnews.co.uk/*
+*://*.northantslive.co.uk/*
+*://*.northwaleslive.co.uk/*
+*://*.nottinghampost.co.uk/*
+*://*.plymouthherald.co.uk/*
+*://*.somersetlive.co.uk/*
+*://*.staffordshire-live.co.uk/*
+*://*.stokesentinel.co.uk/*
+*://*.suffolklive.com/*
+*://*.surreylive.co.uk/*
+*://*.sussexlive.co.uk/*
+*://*.teessidelive.co.uk/*
+*://*.walesonline.co.uk/*
+*://*.yorkshirelive.co.uk/*
+
+# --- "BEO" / IRELAND LOCAL NETWORK ---
+*://*.corkbeo.ie/*
+*://*.dublinlive.ie/*
+*://*.galwaybeo.ie/*
+*://*.rsvplive.ie/*
+
+# --- OTHER REACH DIGITAL (IRELAND / US) ---
+*://*.irishstar.com/*
+*://*.buzz.ie/*
+*://*.dailypost.co.uk/*
+
+# --- LEGACY / REGIONAL PAPERS ---
+*://*.bristolpost.co.uk/*
+*://*.bathchron.co.uk/*
+*://*.cambridge-news.co.uk/*
+*://*.examinerlive.co.uk/*
+*://*.getreading.co.uk/*
+*://*.getwestlondon.co.uk/*
+*://*.huddersfieldexaminer.co.uk/*
+*://*.southwalesargus.co.uk/*
+*://*.wirralglobe.co.uk/*
