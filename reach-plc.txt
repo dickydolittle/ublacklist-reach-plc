@@ -1,7 +1,7 @@
 # =============================================================
 # uBlacklist Ruleset — Reach plc / Trinity Mirror
 # All known Reach plc web domains
-# https://github.com/YOURUSERNAME/ublacklist-reach-plc
+# https://github.com/dickydolittle/ublacklist-reach-plc
 # Last updated: 2025
 # =============================================================
 
